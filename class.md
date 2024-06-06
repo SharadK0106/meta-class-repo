@@ -1,4 +1,4 @@
-Arpita 
-India
-Full Stack Development
+Sharad  
+Pune, Maharashatra, India
+Meta frontend certificate program
 
